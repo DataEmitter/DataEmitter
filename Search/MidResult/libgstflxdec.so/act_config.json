@@ -1,0 +1,12 @@
+[
+    {
+        "bin_name":"libgstflxdec.so",
+        "G1_path": "./Analysed_P1/",
+        "IS_LIB": 1,
+        "IS_64": 1,
+        "Searched_G1_path":"./libgstflxdec.so_P1/",
+        "bin_path":"../samples/binary/libgstflxdec.so",
+        "dump_path": "../samples/dump/gstreamer.dump",
+        "mid_path": "./MidResult/libgstflxdec.so/"
+    }
+]
