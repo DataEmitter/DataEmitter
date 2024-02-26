@@ -1,4 +1,4 @@
-# DataEmittrt
+# DataEmitter
 
 The test commands are located in the readme.md file of the Search and Value Set Analysis directory, respectively
 
